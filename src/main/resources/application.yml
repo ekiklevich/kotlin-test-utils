@@ -1,0 +1,5 @@
+profile: ${spring.profiles.active}
+
+spring:
+  main:
+    lazy-initialization: true
